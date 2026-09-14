@@ -1,16 +1,16 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "description": "Secure tunnels to localhost — HTTPS/TCP/UDP with access control.",
   "homepage": "https://calabi.net",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
       "url": "https://download.calabi.net/latest/calabi-windows-amd64.zip",
-      "hash": "191ba1d1db5fedc671e80b09b8f15bfb4fa93975e7637b6bf4a42ee32d1c1f51"
+      "hash": "3f9c01f72d998e81cf58336c1eda83bdd205b8c5590987aeb697ec260c739196"
     },
     "arm64": {
       "url": "https://download.calabi.net/latest/calabi-windows-arm64.zip",
-      "hash": "9bd73034e1baba5918c60be0f7d4d3e6915a3d224fd9bfe7e0f07db0e5a6850d"
+      "hash": "17d988f2747b61c5fbcc5dffb504baf3398cae0ee882dc6d39228021dd0b2eb7"
     }
   },
   "bin": "calabi.exe"
