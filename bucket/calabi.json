@@ -1,16 +1,16 @@
 {
-  "version": "2.7.0",
-  "description": "Secure tunnels to localhost — HTTPS/TCP/UDP with access control.",
+  "version": "2.8.0",
+  "description": "Calabi client for development integration and mesh networking.",
   "homepage": "https://calabi.net",
-  "license": "Proprietary",
+  "license": "Apache-2.0",
   "architecture": {
     "64bit": {
       "url": "https://download.calabi.net/latest/calabi-windows-amd64.zip",
-      "hash": "2cbeb3a6faeecfbdbd234f46c37de50584ad5c7816f200dfb9f66004b22bf66f"
+      "hash": "90e494cd43002cdb803d45da6fec68504116b4e82bf67a27a3b7b777900d6595"
     },
     "arm64": {
       "url": "https://download.calabi.net/latest/calabi-windows-arm64.zip",
-      "hash": "70d3086d84c27cc2761d6ccdd3e0547cb502355aa9e0b9074f6ca276c9c0c54f"
+      "hash": "2e5d0faa31f754accb5c229113935d82b10bd2f69ec8856951700762bcc678ff"
     }
   },
   "bin": "calabi.exe"
