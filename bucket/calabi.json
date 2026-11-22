@@ -1,16 +1,16 @@
 {
-  "version": "2.8.0",
+  "version": "2.9.0",
   "description": "Calabi client for development integration and mesh networking.",
   "homepage": "https://calabi.net",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
       "url": "https://download.calabi.net/latest/calabi-windows-amd64.zip",
-      "hash": "90e494cd43002cdb803d45da6fec68504116b4e82bf67a27a3b7b777900d6595"
+      "hash": "ff07ce959853ef8c36e26b4823d817f5ff12cd55f4dee670c956ee50a65dd10a"
     },
     "arm64": {
       "url": "https://download.calabi.net/latest/calabi-windows-arm64.zip",
-      "hash": "2e5d0faa31f754accb5c229113935d82b10bd2f69ec8856951700762bcc678ff"
+      "hash": "a0528d804ffad91c3fae6ed82f268518686f564aaa35deeed5c42cb6bb7ef10b"
     }
   },
   "bin": "calabi.exe"
